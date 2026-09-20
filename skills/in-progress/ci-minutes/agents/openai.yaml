@@ -1,0 +1,6 @@
+interface:
+  display_name: "CI minutes"
+  short_description: "Cut GitHub Actions minutes on a Free-plan account"
+  default_prompt: "Use $ci-minutes to measure this repo's Actions spend and apply the path-filter / single-run / no-main-run changes through unlazy."
+policy:
+  allow_implicit_invocation: false
