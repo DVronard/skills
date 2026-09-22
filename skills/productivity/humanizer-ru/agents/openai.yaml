@@ -1,0 +1,3 @@
+interface:
+  display_name: "Humanizer RU"
+  short_description: "Strip AI tells from Russian prose"
